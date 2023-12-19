@@ -2,7 +2,8 @@
 <h2>A Bash Network Quick Host Discoverer</h2>
 
 
-![image]https://github.com/tximista64/melany_host_discoverer/blob/main/images/melany24.jpeg
+
+![image](https://github.com/tximista64/melany_host_discoverer/assets/91343277/375433f6-aa24-49e7-8706-02242dd7ae5b)
 
 
 
