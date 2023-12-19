@@ -1,7 +1,7 @@
 <h1>melany24_host_discovery</h1>
 <h2>A Bash Network Quick Host Discoverer</h2>
 
-![image](https://github.com/tximista64/melany24_host_discovery/assets/91343277/26a5e24e-ad2d-44d1-815f-7746a2c6dc62)
+
 <h2>How 2</h2>
 Download it<br />
 <code>git clone https://github.com/tximista64/melany24_host_discovery</code><br />
