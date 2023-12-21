@@ -1,4 +1,4 @@
-<h1>melany24_host_discovery</h1>
+<h1>melany24_host_discoverer</h1>
 <h2>A Bash Network Quick Host Discoverer</h2>
 
 
