@@ -9,7 +9,7 @@
 
 <h2>How 2</h2>
 Download it<br />
-<code>git clone https://github.com/tximista64/melany24_host_discoverer</code><br />
+<code>git clone https://github.com/tximista64/melany_host_discoverer</code><br />
 Set it executable<br />
 <code>chmod +x melany24.sh</code><br />
 Use it<br />
